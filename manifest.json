@@ -1,0 +1,24 @@
+{
+  "name": "ATTRACT — 30 Day Challenge",
+  "short_name": "ATTRACT",
+  "description": "30日間の習慣チャレンジトラッカー",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#060609",
+  "theme_color": "#060609",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
